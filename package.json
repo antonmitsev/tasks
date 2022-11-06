@@ -1,0 +1,22 @@
+{
+  "name": "@antonmitsev/tasks",
+  "version": "1.0.0",
+  "description": "Some tasks in JS/Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonmitsev/tasks.git"
+  },
+  "author": "Anton Mitsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonmitsev/tasks/issues"
+  },
+  "homepage": "https://github.com/antonmitsev/tasks#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
